@@ -9,3 +9,6 @@ for i in a:
 
 for i in range(20,30):
     print(i)
+##################
+
+print(20*3)
