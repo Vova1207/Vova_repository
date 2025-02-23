@@ -1,1 +1,1 @@
-print('fdghgf')
+print(1222222)
