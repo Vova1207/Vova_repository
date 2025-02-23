@@ -1,1 +1,2 @@
-print(100)
+for i in range(20,39):
+    print(i)
