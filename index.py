@@ -1,2 +1,3 @@
-for i in range(20,39):
-    print(i)
+a='Vova'
+print(len(a))
+print(type(a))
