@@ -1,2 +1,6 @@
-for i in range(20,30):
+a='Vova'
+print(len(a))
+print(type(a))
+################
+for i in a:
     print(i)
